@@ -19,7 +19,9 @@ You'll need the following to run this project:
 - DSCD iPhone Lightning Cable (for serial communication: optional soon)
 - Checkra1n / Palera1n (Exploit your iPhone and enter the pre-boot exec environment known as PongoOS)
 
-- Prompt your local agent: "I have the requirements from the README. Please guide me through running this project and getting it setup. Once we've loaded PongoOS and uploaded the console to the device and the user has plugged in the DSCD cable take control and tell the user what to do next." 
+Once you have all the required items and programs, paste the URL of this repo into your harness of choice alongside the following prompt:
+
+- "I have the requirements from the README. Please guide me through running this project and getting it setup. Once we've loaded PongoOS and uploaded the console to the device and the user has plugged in the DSCD cable take control and tell the user what to do next." 
 
 ## Why?
 

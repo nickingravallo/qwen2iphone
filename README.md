@@ -11,3 +11,7 @@ PongoOS handles most of the setup. We load to an initial binary, which waits for
 ## Instructions
 
 Coming soon...
+
+## Why?
+
+I thought it would be fun to run Qwen on an iPhone. I had some old framebuffer and serial code for debugging an OS initialization through Pongo that I had written a few months ago when working on a Plan9 (9front) port for the iPhone. An inference provider seemed like a logical next step.
